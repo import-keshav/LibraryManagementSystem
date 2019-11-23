@@ -1,2 +1,2 @@
 # LibraryManagementSystem
-Library Management System in Shell Script
+Library Management System in Bash.
