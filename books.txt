@@ -1,0 +1,7 @@
+book_1   Data Structues and Algorithms   Sparsh  YES  01/09/2019  15/09/2019  17102035
+book_2   Discrete Mathematics   Keshav  YES  01/09/2019  15/09/2019  17102036
+book_3   Fiancial Management   Naman  NO
+book_4   Software Engineering   Anubhav  YES  01/09/2019  15/09/2019  17102038
+book_5   Python Foundations   Kaushal  YES  25  52  174  
+book_6   Javascript Foundations   Aman  YES  01/09/2019  15/09/2019  17102039
+book_7   Javascript Foundations   Aman  NO
